@@ -39,3 +39,9 @@
    
 11. **`git revert <commit-hash>`**  
    Reverts a specific commit.
+
+12. **`git push origin main`**
+   Pushes the local changes in the `main` branch to the remote repository (`origin`).
+
+13. **`git pull origin main`**
+   Fetches and merges changes from the remote `main` branch into the local `main` branch.
